@@ -3,6 +3,7 @@ list of anime API
 
 ## Index
 * [AniAPI](#1-aniapi)
+* [MyAnimeList](#2-myanimelist)
 
 # 1. [AniAPI](https://aniapi.com/docs/authentication)
 
@@ -41,6 +42,55 @@ Authorization: Bearer <YOUR_JWT>
     "message": "Unauthorized",
     "data": "Invalid Authorization header",
     "version": "1"
+}
+```
+
+## __Regex__
+```
+^[A-Za-z0-9-_=]+\.[A-Za-z0-9-_=]+\.?[A-Za-z0-9-_.+/=]*$
+```
+
+# 2. [MyAnimeList](https://myanimelist.net/apiconfig/references/api/v2)
+
+## __Example Request__
+* Curl
+```
+curl 'https://api.myanimelist.net/v2/anime?q=one&limit=4' \
+-H 'Authorization: Bearer YOUR_TOKEN'
+```
+
+* Raw
+```
+GET /v2/anime?q=one&limit=4 HTTP/1.1
+Host: api.myanimelist.net
+Authorization: Bearer YOUR_TOKEN
+```
+
+## __Response__
+* Success
+```
+{
+  "data": [
+    {
+      "node": {
+        "id": 459,
+        "title": "One Piece Movie 1",
+        "main_picture": {
+          "medium": "https://myanimelist.cdn-dena.com/images/anime/5/20925.jpg",
+          "large": "https://myanimelist.cdn-dena.com/images/anime/5/20925l.jpg"
+        }
+      }
+    }
+  ],
+  "paging": {
+    "next": "https://api.myanimelist.net/v2/anime?offset=4&q=one&limit=4"
+  }
+}
+```
+* Error
+```
+{
+    "error": "invalid_token"
 }
 ```
 

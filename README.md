@@ -10,6 +10,7 @@ A repository containing a detailed list of API information
 ## Index
 * [Animals](Animals/README.md)
 * [Anime](Anime/README.md)
+* [Anti-Malware](Anti-Malware/README.md)
 
 ## How to Contribute?
 
