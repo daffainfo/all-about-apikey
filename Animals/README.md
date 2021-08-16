@@ -1,11 +1,14 @@
 # Animals
-list of animals API
+List of animals API
 
 ## Index
 * [TheCatApi](#1-thecatapi)
 * [IUCN](#2-iucn)
 
 # 1. [TheCatApi](https://docs.thecatapi.com/)
+
+## __Description__
+Pictures of cats from Tumblr
 
 ## __Example Request__
 * Curl
@@ -48,7 +51,15 @@ x-api-key: DEMO-API-KEY
 [a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9a-z]{12}
 ```
 
+## __Example API key__
+```
+0r98cr1s-9xef-m1ae-vk3o-vk2ld01c9v98
+```
+
 # 2. [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)
+
+## __Description__
+IUCN Red List of Threatened Species
 
 ## __Example Request__
 * Curl
@@ -78,4 +89,9 @@ Host: apiv3.iucnredlist.org
 ## __Regex__
 ```
 [a-z0-9]{64}
+```
+
+## __Example API key__
+```
+wrion7bk4lh7pxp2wiq57mjak6s0tp34fj1fiemdjqj1g5xl57hi3km8g6jpv28z
 ```

@@ -1,5 +1,10 @@
 # All About API
-A repository containing a detailed list of API information
+Detailed information about API
+- Description
+- Example Request (Curl and Raw)
+- Response
+- Regex
+- Example API key
 
 ![](https://img.shields.io/github/license/daffainfo/all-about-api)
 ![](https://img.shields.io/github/issues/daffainfo/all-about-api)
@@ -11,10 +16,13 @@ A repository containing a detailed list of API information
 * [Animals](Animals/README.md)
 * [Anime](Anime/README.md)
 * [Anti-Malware](Anti-Malware/README.md)
+* [Art-Design](Art-Design/README.md)
 
 ## How to Contribute?
 
     # [Title Web](Link Documentation)
+
+    ## Description
 
     ## __Example Request__
     * Curl
@@ -42,6 +50,10 @@ A repository containing a detailed list of API information
     Regex for checking the API
     ```
 
+    ## __Example API key__
+    ```
+    API Key (You can blank this if you dont have example api key)
+    ```
+
 ## References
-- [KeyHacks](https://github.com/streaak/keyhacks) (For inspiring me to make this repository)
 - [public-apis](https://github.com/public-apis/public-apis) (APIs list to be added to this repository)

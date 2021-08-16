@@ -1,11 +1,14 @@
 # Anime
-list of anime API
+List of anime API
 
 ## Index
 * [AniAPI](#1-aniapi)
 * [MyAnimeList](#2-myanimelist)
 
 # 1. [AniAPI](https://aniapi.com/docs/authentication)
+
+## __Description__
+Anime discovery, streaming & syncing with trackers	
 
 ## __Example Request__
 * Curl
@@ -50,7 +53,15 @@ Authorization: Bearer <YOUR_JWT>
 ^[A-Za-z0-9-_=]+\.[A-Za-z0-9-_=]+\.?[A-Za-z0-9-_.+/=]*$
 ```
 
+## __Example API key__
+```
+eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE2M.jkxMDcxMjAsImV4cCI6MTY2MDY0MzEyMCwiYXVkIjo........
+```
+
 # 2. [MyAnimeList](https://myanimelist.net/apiconfig/references/api/v2)
+
+## __Description__
+Anime and Manga Database and Community
 
 ## __Example Request__
 * Curl
@@ -97,4 +108,9 @@ Authorization: Bearer YOUR_TOKEN
 ## __Regex__
 ```
 ^[A-Za-z0-9-_=]+\.[A-Za-z0-9-_=]+\.?[A-Za-z0-9-_.+/=]*$
+```
+
+## __Example API key__
+```
+eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE2M.jkxMDcxMjAsImV4cCI6MTY2MDY0MzEyMCwiYXVkIjo........
 ```
