@@ -1,7 +1,11 @@
 # Animals
 list of animals API
 
-# [TheCatApi](https://docs.thecatapi.com/)
+## Index
+* [TheCatApi](#1-thecatapi)
+* [IUCN](#2-iucn)
+
+# 1. [TheCatApi](https://docs.thecatapi.com/)
 
 ## __Example Request__
 * Curl
@@ -44,7 +48,7 @@ x-api-key: DEMO-API-KEY
 [a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[0-9a-z]{12}
 ```
 
-# [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)
+# 2. [IUCN](http://apiv3.iucnredlist.org/api/v3/docs)
 
 ## __Example Request__
 * Curl

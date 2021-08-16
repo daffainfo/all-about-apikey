@@ -1,7 +1,10 @@
-# Animals
+# Anime
 list of anime API
 
-# [AniAPI](https://aniapi.com/docs/authentication)
+## Index
+* [AniAPI](#1-aniapi)
+
+# 1. [AniAPI](https://aniapi.com/docs/authentication)
 
 ## __Example Request__
 * Curl

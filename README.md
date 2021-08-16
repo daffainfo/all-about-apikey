@@ -7,6 +7,10 @@ A repository containing a detailed list of API information
 ![](https://img.shields.io/github/stars/daffainfo/all-about-api)
 ![](https://img.shields.io/github/last-commit/daffainfo/all-about-api)
 
+## Index
+* [Animals](Animals/README.md)
+* [Anime](Anime/README.md)
+
 ## How to Contribute?
 
     # [Title Web](Link Documentation)
@@ -38,5 +42,5 @@ A repository containing a detailed list of API information
     ```
 
 ## References
-- [KeyHacks](https://github.com/streaak/keyhacks)
-- [public-apis](https://github.com/public-apis/public-apis)
+- [KeyHacks](https://github.com/streaak/keyhacks) (For inspiring me to make this repository)
+- [public-apis](https://github.com/public-apis/public-apis) (APIs list to be added to this repository)
