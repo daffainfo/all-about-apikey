@@ -4,7 +4,8 @@ List of Art and Design API
 ## Index
 * [Cooper Hewitt](#1-cooper-hewitt)
 * [Dribbble](#2-dribbble)
-* [Rijksmuseum](#3-rijksmuseum)
+* [Europeana](#3-europeana)
+* [Rijksmuseum](#4-rijksmuseum)
 
 # 1. [Cooper Hewitt](https://collection.cooperhewitt.org/api)
 
@@ -103,7 +104,59 @@ Host: api.dribbble.com
 om34l6c32snpjr1tsj7fixoexafrgr9i6023t2701yysa7fuqfbdgy0tct75gkeg
 ```
 
-# 3. [Rijksmuseum](https://data.rijksmuseum.nl/user-generated-content/api//)
+# 3. [Europeana](https://pro.europeana.eu/page/search)
+
+## __Description__
+European Museum and Galleries content
+
+## __Example Request__
+* Curl
+```
+curl "https://api.europeana.eu/record/v2/search.json?wskey=APIKEY&query=*&rows=0&profile=facets"
+```
+
+* Raw
+```
+GET /record/v2/search.json?wskey=APIKEY&query=*&rows=0&profile=facets HTTP/1.1
+Host: api.europeana.eu
+```
+
+## __Response__
+* Success
+```
+{
+    "apikey":"APIKEY",
+    "success":true,
+    "requestNumber":999,
+    "itemsCount":0,
+    "totalResults":62396081,
+    "items":[],
+    .....
+}
+```
+* Error
+```
+{
+    "apikey":"APIKEY",
+    "success":false,
+    "error":"API key doesn't exist",
+    "code":"401-AX"
+}
+```
+
+## __Regex__
+```
+[a-z]{8,10}
+```
+
+## __Example API key__
+```
+fvvxvpdp
+haakaofij
+bjgqtpybnr
+```
+
+# 4. [Rijksmuseum](https://data.rijksmuseum.nl/user-generated-content/api//)
 
 ## __Description__
 The Rijksmuseum is a Dutch national museum dedicated to arts and history in Amsterdam
