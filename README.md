@@ -13,19 +13,19 @@ Detailed information about API
 ![](https://img.shields.io/github/last-commit/daffainfo/all-about-api)
 
 ## Index
-* __[Animals](Anime/README.md)__
+* __[Animals](Anime)__
   * [IUCN](Animals/IUCN.md)
   * [TheCatApi](Animals/TheCatApi.md)
-* __[Anime](Anime/README.md)__
+* __[Anime](Anime)__
   * [AniAPI](Anime/AniAPI.md)
   * [MyAnimeList](Anime/MyAnimeList.md)
-* __[Anti-Malware](Anti-Malware/README.md)__
+* __[Anti-Malware](Anti-Malware)__
   * [AbuseIPDB](Anti-Malware/AbuseIPDB.md)
   * [AlienVault Open Threat Exchange (OTX)](Anti-Malware/AlienVault%20Open%20Threat%20Exchange.md)
   * [Google Safe Browsing](Anti-Malware/Google%20Safe%20Browsing.md)
   * [URLScan.io](Anti-Malware/URLScan.md)
   * [VirusTotal](Anti-Malware/VirusTotal.md)
-* __[Art-Design](Art-Design/README.md)__
+* __[Art-Design](Art-Design)__
   * [Cooper Hewitt](Art-Design/Cooper%20Hewitt.md)
   * [Dribbble](Art-Design/Dribbble.md)
   * [Europeana](Art-Design/Europeana.md)
