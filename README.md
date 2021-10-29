@@ -25,7 +25,11 @@ Detailed information about API
   * [Google Safe Browsing](Anti-Malware/Google%20Safe%20Browsing.md)
   * [URLScan.io](Anti-Malware/URLScan.md)
   * [VirusTotal](Anti-Malware/VirusTotal.md)
-* [Art-Design](Art-Design/README.md)
+* __[Art-Design](Art-Design/README.md)__
+  * [Cooper Hewitt](Art-Design/Cooper%20Hewitt.md)
+  * [Dribbble](Art-Design/Dribbble.md)
+  * [Europeana](Art-Design/Europeana.md)
+  * [Rijksmuseum](Art-Design/Rijksmuseum.md)
 
 ## References
 - [public-apis](https://github.com/public-apis/public-apis) (APIs list to be added to this repository)
