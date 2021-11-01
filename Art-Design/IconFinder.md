@@ -1,7 +1,7 @@
-# [Cooper Hewitt](https://collection.cooperhewitt.org/api)
+# [IconFinder](https://developer.iconfinder.com/reference/overview-1)
 
 ## __Description__
-Smithsonian Design Museum
+Web Icons
 
 ## __Example Request__
 * Curl
