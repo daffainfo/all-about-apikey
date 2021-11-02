@@ -5,4 +5,5 @@ List of Art and Design API
 * [Cooper Hewitt](Cooper%20Hewitt.md)
 * [Dribbble](Dribbble.md)
 * [Europeana](Europeana.md)
+* [IconFinder](IconFinder.md)
 * [Rijksmuseum](Rijksmuseum.md)

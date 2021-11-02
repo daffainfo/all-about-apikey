@@ -29,6 +29,7 @@ Detailed information about API
   * [Cooper Hewitt](Art-Design/Cooper%20Hewitt.md)
   * [Dribbble](Art-Design/Dribbble.md)
   * [Europeana](Art-Design/Europeana.md)
+  * [IconFinder](Art-Design/IconFinder.md)
   * [Rijksmuseum](Art-Design/Rijksmuseum.md)
 
 ## References
