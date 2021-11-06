@@ -13,24 +13,48 @@ Detailed information about API
 ![](https://img.shields.io/github/last-commit/daffainfo/all-about-api)
 
 ## Index
-* __[Animals](Anime)__
+<details>
+<summary>Animals</summary>
+
   * [IUCN](Animals/IUCN.md)
   * [TheCatApi](Animals/TheCatApi.md)
-* __[Anime](Anime)__
+</details>
+<details>
+<summary>Anime</summary>
+
   * [AniAPI](Anime/AniAPI.md)
   * [MyAnimeList](Anime/MyAnimeList.md)
-* __[Anti-Malware](Anti-Malware)__
+</details>
+<details>
+<summary>Anti-Malware</summary>
+
   * [AbuseIPDB](Anti-Malware/AbuseIPDB.md)
   * [AlienVault Open Threat Exchange (OTX)](Anti-Malware/AlienVault%20Open%20Threat%20Exchange.md)
   * [Google Safe Browsing](Anti-Malware/Google%20Safe%20Browsing.md)
   * [URLScan.io](Anti-Malware/URLScan.md)
   * [VirusTotal](Anti-Malware/VirusTotal.md)
-* __[Art-Design](Art-Design)__
+</details>
+<details>
+<summary>Art-Design</summary>
+
   * [Cooper Hewitt](Art-Design/Cooper%20Hewitt.md)
   * [Dribbble](Art-Design/Dribbble.md)
   * [Europeana](Art-Design/Europeana.md)
   * [IconFinder](Art-Design/IconFinder.md)
   * [Rijksmuseum](Art-Design/Rijksmuseum.md)
+</details>
+<details>
+<summary>Athentication</summary>
+
+  * [Micro User Service](Authentication/Micro%20User%20Service.md)
+  * [Stytch](Authentication/Stytch.md)
+</details>
+<details>
+<summary>BlockChain</summary>
+
+  * [Covalent](BlockChain/Covalent.md)
+  * [Etherscan](Blockchain/Etherscan.md)
+</details>
 
 ## References
 - [public-apis](https://github.com/public-apis/public-apis) (APIs list to be added to this repository)
