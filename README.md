@@ -17,7 +17,9 @@ Detailed information about API
 <summary>Animals</summary>
 
   * [IUCN](Animals/IUCN.md)
+  * [Petfinder](Animals/Petfinder.md)
   * [TheCatApi](Animals/TheCatApi.md)
+  * [TheDogApi](Animals/TheDogApi.md)
 </details>
 <details>
 <summary>Anime</summary>
