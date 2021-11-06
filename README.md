@@ -54,6 +54,7 @@ Detailed information about API
 
   * [Covalent](BlockChain/Covalent.md)
   * [Etherscan](Blockchain/Etherscan.md)
+  * [Nownodes](Blockchain/Nownodes.md)
 </details>
 
 ## References
