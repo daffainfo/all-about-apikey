@@ -46,7 +46,7 @@ Detailed information about API
   * [Rijksmuseum](Art-Design/Rijksmuseum.md)
 </details>
 <details>
-<summary>Athentication</summary>
+<summary>Authentication</summary>
 
   * [Micro User Service](Authentication/Micro%20User%20Service.md)
   * [Stytch](Authentication/Stytch.md)
@@ -57,6 +57,12 @@ Detailed information about API
   * [Covalent](BlockChain/Covalent.md)
   * [Etherscan](Blockchain/Etherscan.md)
   * [Nownodes](Blockchain/Nownodes.md)
+</details>
+<details>
+<summary>Books</summary>
+
+  * [API Bible](Books/API%20Bible.md)
+  * [Google Books](Books/Google%20Books.md)
 </details>
 
 ## References
