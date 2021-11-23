@@ -6,14 +6,14 @@ Onchain GraphQL APIs & DEX APIs
 ## __Example Request__
 * Curl
 ```
-curl -X POST -H "X-API-KEY: YOURAPIKEY" https://graphql.bitquery.io/
+curl -X POST -H "X-API-KEY: {{token}}" https://graphql.bitquery.io/
 ```
 
 * Raw
 ```
 POST / HTTP/1.1
 Host: graphql.bitquery.io
-X-API-KEY: BQYvhnv04csZHaprIBZNwtpRiDIwEIW9
+X-API-KEY: {{token}}
 ```
 
 ## __Response__
