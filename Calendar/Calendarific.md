@@ -44,8 +44,7 @@ Host: calendarific.com
 {
     "meta":{
         "code":401,
-        "error_type":
-        "auth failed",
+        "error_type":"auth failed",
         "error_detail":"Missing or invalid api credentials. See https:\/\/calendarific.com\/api for details."
         },
     "response":[]
