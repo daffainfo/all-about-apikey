@@ -1,4 +1,4 @@
-# [CoiinAPI](https://docs.coinapi.io/)
+# [CoinAPI](https://docs.coinapi.io/)
 
 ## __Description__
 All Currency Exchanges integrate under a single api

@@ -47,7 +47,7 @@ ipfs[a-zA-Z0-9]{32}
 ```
 
 ## __Example API key__
-```
+
 * Mainnet
 ```
 mainnet8tc4fJ1ddM2VmnbFzTk3f7hXsrehnT8w
