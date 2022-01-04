@@ -50,5 +50,5 @@ Host: api-v2.ddownload.com
 
 ## __Example API key__
 ```
-of3ab02f3xd12ldofxc3fo
+of3ab02f3xd12ldofxc3fodadsadadad
 ```

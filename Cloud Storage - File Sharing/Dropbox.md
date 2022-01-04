@@ -49,12 +49,3 @@ sl.[a-zA-Z0-9_-]{136}
 ```
 sl.ONOIUgObmbrgsga1kBI-q4NrS_R2cplbTe6zF9ImkQbiR7reMEke4Pcc_hhDtj7uGeEwGB5RmDKQrYclvhvQOkcPBWHRtkBqVabX5_gEhM-y_ZkXDtTQmUrK8gVq8j8YIIl9w8_B
 ```
-
-
-
-
-
-If berhasil:
-
-
-If gagal:
