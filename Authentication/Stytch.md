@@ -29,7 +29,7 @@ Content-Length: 28
 ## __Response__
 * Success
 
-    If the email not exists
+If the email not exists
 ```
 {
     "email_id":"xxxxxxxxxxxx",
@@ -40,8 +40,7 @@ Content-Length: 28
     "user_id":"xxxxxxxxxxxx"
 }
 ```
-
-    If the email exists
+If the email exists
 ```
 {
     "status_code":400,
