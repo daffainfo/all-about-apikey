@@ -126,6 +126,7 @@ Detailed information about API
   * [Brave New Coin](Cryptocurrency/Brave%20New%20Coin.md)
   * [CoinAPI](Cryptocurrency/CoinAPI.md)
   * [Coinlayer](Cryptocurrency/Coinlayer.md)
+  * [Coinlib](Cryptocurrency/Coinlib.md)
 </details>
 
 ## References
