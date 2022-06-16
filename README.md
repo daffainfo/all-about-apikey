@@ -128,6 +128,12 @@ Detailed information about API
   * [Coinlayer](Cryptocurrency/Coinlayer.md)
   * [Coinlib](Cryptocurrency/Coinlib.md)
 </details>
+<details>
+<summary>Currency Exchange</summary>
+
+  * [1Forge](Currency%20Exchange/1Forge.md)
+  * [Amdoren](Currency%20Exchange/Amdoren.md)
+</details>
 
 ## References
 - [public-apis](https://github.com/public-apis/public-apis) (APIs list to be added to this repository)
