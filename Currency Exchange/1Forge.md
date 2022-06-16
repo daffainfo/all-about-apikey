@@ -19,10 +19,10 @@ Host: api.1forge.com
 * Success
 ```
 {
-    quota_used: 259,
-    quota_limit: 5000,
-    quota_remaining: 4741,
-    hours_until_reset: 23
+    "quota_used": 259,
+    "quota_limit": 5000,
+    "quota_remaining": 4741,
+    "hours_until_reset": 23
 }
 ```
 * Error
