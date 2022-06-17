@@ -1,7 +1,7 @@
 # [AniAPI](https://aniapi.com/docs/authentication)
 
 ## __Description__
-Anime discovery, streaming & syncing with trackers	
+Anime discovery, streaming & syncing with trackers
 
 ## __Example Request__
 * Curl

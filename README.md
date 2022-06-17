@@ -133,6 +133,45 @@ Detailed information about API
 
   * [1Forge](Currency%20Exchange/1Forge.md)
   * [Amdoren](Currency%20Exchange/Amdoren.md)
+  * [CurrencyFreaks](Currency%20Exchange/CurrencyFreaks.md)
+  * [Currencylayer](Currency%20Exchange/Currencylayer.md)
+  * [CurrencyScoop](Currency%20Exchange/CurrencyScoop.md)
+  * [ExchangeRate-API](Currency%20Exchange/ExchangeRate-API.md)
+</details>
+<details>
+<summary>Data Validation</summary>
+
+  * [Lob](Data%20Validation/Lob.md)
+</details>
+<details>
+<summary>Development</summary>
+
+  * [ApiFlash](Development/ApiFlash.md)
+  * [Blitapp](Development/Blitapp.md)
+  * [Browshot](Development/Browshot.md)
+  * [Gorest](Development/Gorest.md)
+  * [host.io](Development/host.io.md)
+  * [Hunter](Development/Hunter.md)
+  * [IP2WHOIS](Development/IP2WHOIS.md)
+  * [IPFind](Development/IPFind.md)
+  * [JSONBin](Development/JSONBin.md)
+  * [MAC Address Lookup](Development/MAC%20Address%20Lookup.md)
+  * [Open Page Rank](Development/Open%20Page%20Rank.md)
+  * [OpenAPIHub](Development/OpenAPIHub.md)
+  * [OpenGraphr](Development/OpenGraphr.md)
+  * [PageCDN](Development/PageCDN.md)
+  * [ProxyCrawl](Development/ProxyCrawl.md)
+  * [ProxyKingdom](Development/ProxyKingdom.md)
+  * [SavePage](Development/SavePage.md)
+  * [ScraperAPI](Development/ScraperAPI.md)
+  * [ScraperBox](Development/ScraperBox.md)
+  * [scrapestack](Development/scrapestack.md)
+  * [ScrapingAnt](Development/ScrapingAnt.md)
+  * [ScrapingDog](Development/ScrapingDog.md)
+  * [Screenshot API](Development/Screenshot%20API.md)
+  * [serpstack](Development/serpstack.md)
+  * [Supportivekoala](Development/Supportivekoala.md)
+  * [ZenRows](Development/ZenRows.md)
 </details>
 
 ## References
