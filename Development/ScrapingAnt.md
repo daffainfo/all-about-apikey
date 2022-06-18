@@ -15,7 +15,7 @@ POST /v1/general HTTP/1.1
 Host: api.scrapingant.com
 x-api-key: {{token}}
 Accept: application/json
-Content-Type: application/json]
+Content-Type: application/json
 
 {"url": "https://example.com"}
 ```
