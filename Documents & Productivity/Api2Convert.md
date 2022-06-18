@@ -27,7 +27,7 @@ curl -X POST \
 * Raw
 ```
 POST /v2/jobs HTTP/1.1
-Host: https://api.api2convert.com
+Host: api.api2convert.com
 X-Oc-Api-Key: {{token}}
 Content-Type: application/json
 {
