@@ -1,10 +1,11 @@
 # All About API
 Detailed information about API
 - Description
-- Example Request (Curl and Raw)
+- Example Request (Curl and Raw request)
 - Response
 - Regex
 - Example API key
+- Nuclei Templates (Soon)
 
 ![](https://img.shields.io/github/license/daffainfo/all-about-api)
 ![](https://img.shields.io/github/issues/daffainfo/all-about-api)
@@ -13,166 +14,113 @@ Detailed information about API
 ![](https://img.shields.io/github/last-commit/daffainfo/all-about-api)
 
 ## Index
-<details>
-<summary>Animals</summary>
+* [1Forge](/1forge/)
+* [Abstract Public Holidays](/abstract-public-holidays/)
+* [AbuseIPDB](/abuseipdb/)
+* [AdoptAPet](/adoptapet/)
+* [Alchemy](/alchemy/)
+* [Airtable](/airtable/)
+* [AlienVault Open Threat Exchange (OTX)](/alienVault-open-threat-exchange/)
+* [Amdoren](/amdoren/)
+* [AniAPI](/aniaPI/)
+* [API Bible](/api-bible/)
+* [ApiFlash](/apiflash/)
+* [Bhagavad Gita](/bhagavad-gita/)
+* [Binance](/binance/)
+* [BitcoinAverage](/bitcoinaverage/)
+* [Bitquery](/bitquery/)
+* [Bitrise](/bitrise/)
+* [Blitapp](/blitapp/)
+* [Block](/block/)
+* [Blockchain](/blockchain/)
+* [Blockfrost](/blockfrost/)
+* [Box](/box/)
+* [Brave New Coin](/brave-new-coin/)
+* [Browshot](/browshot/)
+* [Calendarific](/calendarific/)
+* [Charity Search](/charity-search/)
+* [Clearbit](/clearbit/)
+* [CoinAPI](/coinapi/)
+* [Coinlayer](/coinlayer/)
+* [Coinlib](/coinlib/)
+* [Cooper Hewitt](/cooper-hewitt/)
+* [Covalent](/covalent/)
+* [CurrencyFreaks](/currencyfreaks/)
+* [Currencylayer](/currencylayer/)
+* [CurrencyScoop](/currencyscoop/)
+* [ddownload](/ddownload/)
+* [Dribbble](/dribbble/)
+* [Dropbox](/dropbox/)
+* [eBird](/ebird/)
+* [Etherscan](/etherscan/)
+* [Europeana](/europeana/)
+* [ExchangeRate-API](/exchangerate-api/)
+* [Festivo Public Holidays](/festivo-public-holidays/)
+* [GoFile](/gofile/)
+* [Google Books](/google-books/)
+* [Google Safe Browsing](/google-safe-browsing/)
+* [Gorest](/gorest/)
+* [Harvard Art Museums](/harvard-art-museums/)
+* [Holiday API](/holiday-api/)
+* [host.io](/host-io/)
+* [Hunter](/hunter/)
+* [IconFinder](/iconfinder/)
+* [ImprovMX](/improvmx/)
+* [Instatus](/instatus/)
+* [IP2WHOIS](/ip2whois/)
+* [IPFind](/ipfind/)
+* [IUCN](/iucn/)
+* [JSONBin](/jsonbin/)
+* [Lob](/lob/)
+* [MAC Address Lookup](/mac-address-lookup/)
+* [MailboxValidator](/mailboxvalidator/)
+* [Mailgun](/mailgun/)
+* [MalShare](/malshare/)
+* [MalwareBazaar](/malwarebazaar/)
+* [Micro User Service](/micro-user-service/)
+* [MojoAuth](/mojoauth/)
+* [MyAnimeList](/myanimelist/)
+* [Nownodes](/nownodes/)
+* [Open Page Rank](/open-page-rank/)
+* [OpenAPIHub](/openapihub/)
+* [OpenGraphr](/opengraphr/)
+* [ORB Intelligence](/orb-intelligence/)
+* [PageCDN](/pagecdn/)
+* [Pastebin](/pastebin/)
+* [Petfinder](/petfinder/)
+* [Pinata](/pinata/)
+* [ProxyCrawl](/proxycrawl/)
+* [ProxyKingdom](/proxykingdom/)
+* [Quip](/quip/)
+* [Rijksmuseum](/rijksmuseum/)
+* [SavePage](/savepage/)
+* [Scanii](/scanii/)
+* [ScraperAPI](/scraperapi/)
+* [ScraperBox](/scraperbox/)
+* [scrapestack](/scrapestack/)
+* [ScrapingAnt](/scrapingant/)
+* [ScrapingDog](/scrapingdog/)
+* [Screenshot API](/screenshot-api/)
+* [serpstack](/serpstack/)
+* [Smartsheet](/smartsheet/)
+* [Square](/square/)
+* [Stytch](/stytch/)
+* [Supportivekoala](/supportivekoala/)
+* [TheCatApi](/thecatapi/)
+* [TheDogApi](/thedogapi/)
+* [Trello](/trello/)
+* [URLScan.io](/urlscan/)
+* [VirusTotal](/virustotal/)
+* [Web3 Storage](/web3-storage/)
+* [Web of Trust](/web-of-trust/)
+* [Word Cloud](/word-cloud/)
+* [ZenRows](/zenrows/)
 
-  * [AdoptAPet](Animals/AdoptAPet.md)
-  * [eBird](Animals/eBird.md)
-  * [IUCN](Animals/IUCN.md)
-  * [Petfinder](Animals/Petfinder.md)
-  * [TheCatApi](Animals/TheCatApi.md)
-  * [TheDogApi](Animals/TheDogApi.md)
-</details>
-<details>
-<summary>Anime</summary>
-
-  * [AniAPI](Anime/AniAPI.md)
-  * [MyAnimeList](Anime/MyAnimeList.md)
-</details>
-<details>
-<summary>Anti-Malware</summary>
-
-  * [AbuseIPDB](Anti-Malware/AbuseIPDB.md)
-  * [AlienVault Open Threat Exchange (OTX)](Anti-Malware/AlienVault%20Open%20Threat%20Exchange.md)
-  * [Google Safe Browsing](Anti-Malware/Google%20Safe%20Browsing.md)
-  * [MalShare](Anti%20Malware/MalShare.md)
-  * [MalwareBazaar](Anti%20Malware/MalwareBazaar.md)
-  * [Scanii](Anti%20Malware/Scanii.md)
-  * [URLScan.io](Anti-Malware/URLScan.md)
-  * [VirusTotal](Anti-Malware/VirusTotal.md)
-  * [Web of Trust](Anti%20Malware/Web%20of%20Trust.md)
-</details>
-<details>
-<summary>Art-Design</summary>
-
-  * [Cooper Hewitt](Art-Design/Cooper%20Hewitt.md)
-  * [Dribbble](Art-Design/Dribbble.md)
-  * [Europeana](Art-Design/Europeana.md)
-  * [Harvard Art Museums](Art%20Design/Harvard%20Art%20Museums.md)
-  * [IconFinder](Art-Design/IconFinder.md)
-  * [Rijksmuseum](Art-Design/Rijksmuseum.md)
-  * [Word Cloud](Art%20Design/Word%20Cloud.md)
-</details>
-<details>
-<summary>Authentication</summary>
-
-  * [Micro User Service](Authentication/Micro%20User%20Service.md)
-  * [MojoAuth](Authentication/MojoAuth.md)
-  * [Stytch](Authentication/Stytch.md)
-</details>
-<details>
-<summary>BlockChain</summary>
-
-  * [Bitquery](Blockchain/Bitquery.md)
-  * [Covalent](BlockChain/Covalent.md)
-  * [Etherscan](Blockchain/Etherscan.md)
-  * [Nownodes](Blockchain/Nownodes.md)
-</details>
-<details>
-<summary>Books</summary>
-
-  * [API Bible](Books/API%20Bible.md)
-  * [Bhagavad Gita](Books/Bhagavad%20Gita.md)
-  * [Google Books](Books/Google%20Books.md)
-</details>
-<details>
-<summary>Business</summary>
-
-  * [Charity Search](Business/Charity%20Search.md)
-  * [Clearbit](Business/Clearbit.md)
-  * [ImprovMX](Business/ImprovMX.md)
-  * [Instatus](Business/Instatus.md)
-  * [MailboxValidator](Business/MailboxValidator.md)
-  * [Mailgun](Business/Mailgun.md)
-  * [ORB Intelligence](Business/ORB%20Intelligence.md)
-  * [Smartsheet](Business/Smartsheet.md)
-  * [Square](Business/Square.md)
-  * [Trello](Business/Trello.md)
-</details>
-<details>
-<summary>Calendar</summary>
-
-  * [Abstract Public Holidays](Calendar/Abstract%20Public%20Holidays.md)
-  * [Calendarific](Calendar/Calendarific.md)
-  * [Festivo Public Holidays](Calendar/Festivo%20Public%20Holidays.md)
-  * [Holiday API](Calendar/Holiday%20API.md)
-</details>
-<details>
-<summary>Cloud Storage - File Sharing</summary>
-
-  * [Box](Cloud%20Storage%20-%20File%20Sharing/Box.md)
-  * [ddownload](Cloud%20Storage%20-%20File%20Sharing/ddownload.md)
-  * [Dropbox](Cloud%20Storage%20-%20File%20Sharing/Dropbox.md)
-  * [GoFile](Cloud%20Storage%20-%20File%20Sharing/GoFile.md)
-  * [Pastebin](Cloud%20Storage%20-%20File%20Sharing/Pastebin.md)
-  * [Pinata](Cloud%20Storage%20-%20File%20Sharing/Pinata.md)
-  * [Quip](Cloud%20Storage%20-%20File%20Sharing/Quip.md)
-  * [Web3 Storage](Cloud%20Storage%20-%20File%20Sharing/Web3%20Storage.md)
-</details>
-<details>
-<summary>Continous Integration</summary>
-
-  * [Bitrise](Continous%20Integration/Bitrise.md)
-</details>
-<details>
-<summary>Cryptocurrency</summary>
-
-  * [Alchemy](Cryptocurrency/Alchemy.md)
-  * [Binance](Cryptocurrency/Binance.md)
-  * [BitcoinAverage](Cryptocurrency/BitcoinAverage.md)
-  * [Block](Cryptocurrency/Block.md)
-  * [Blockchain](Cryptocurrency/Blockchain.md)
-  * [Blockfrost](Cryptocurrency/Blockfrost.md)
-  * [Brave New Coin](Cryptocurrency/Brave%20New%20Coin.md)
-  * [CoinAPI](Cryptocurrency/CoinAPI.md)
-  * [Coinlayer](Cryptocurrency/Coinlayer.md)
-  * [Coinlib](Cryptocurrency/Coinlib.md)
-</details>
-<details>
-<summary>Currency Exchange</summary>
-
-  * [1Forge](Currency%20Exchange/1Forge.md)
-  * [Amdoren](Currency%20Exchange/Amdoren.md)
-  * [CurrencyFreaks](Currency%20Exchange/CurrencyFreaks.md)
-  * [Currencylayer](Currency%20Exchange/Currencylayer.md)
-  * [CurrencyScoop](Currency%20Exchange/CurrencyScoop.md)
-  * [ExchangeRate-API](Currency%20Exchange/ExchangeRate-API.md)
-</details>
-<details>
-<summary>Data Validation</summary>
-
-  * [Lob](Data%20Validation/Lob.md)
-</details>
-<details>
-<summary>Development</summary>
-
-  * [ApiFlash](Development/ApiFlash.md)
-  * [Blitapp](Development/Blitapp.md)
-  * [Browshot](Development/Browshot.md)
-  * [Gorest](Development/Gorest.md)
-  * [host.io](Development/host.io.md)
-  * [Hunter](Development/Hunter.md)
-  * [IP2WHOIS](Development/IP2WHOIS.md)
-  * [IPFind](Development/IPFind.md)
-  * [JSONBin](Development/JSONBin.md)
-  * [MAC Address Lookup](Development/MAC%20Address%20Lookup.md)
-  * [Open Page Rank](Development/Open%20Page%20Rank.md)
-  * [OpenAPIHub](Development/OpenAPIHub.md)
-  * [OpenGraphr](Development/OpenGraphr.md)
-  * [PageCDN](Development/PageCDN.md)
-  * [ProxyCrawl](Development/ProxyCrawl.md)
-  * [ProxyKingdom](Development/ProxyKingdom.md)
-  * [SavePage](Development/SavePage.md)
-  * [ScraperAPI](Development/ScraperAPI.md)
-  * [ScraperBox](Development/ScraperBox.md)
-  * [scrapestack](Development/scrapestack.md)
-  * [ScrapingAnt](Development/ScrapingAnt.md)
-  * [ScrapingDog](Development/ScrapingDog.md)
-  * [Screenshot API](Development/Screenshot%20API.md)
-  * [serpstack](Development/serpstack.md)
-  * [Supportivekoala](Development/Supportivekoala.md)
-  * [ZenRows](Development/ZenRows.md)
-</details>
+## To Dos
+- [x] Fixing structure of the repository
+- [ ] Add nuclei-template link to each information
+- [ ] Create a bash script to check the validity of API key / Oauth token
+- [ ] Get all of the information from github.com/public-apis/public-apis
 
 ## References
 - [public-apis](https://github.com/public-apis/public-apis) (APIs list to be added to this repository)
