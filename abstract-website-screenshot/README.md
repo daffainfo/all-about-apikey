@@ -1,7 +1,7 @@
-# [Abstract Public Holidays](https://www.abstractapi.com/holidays-api)
+# [Abstract Website Screenshot](https://www.abstractapi.com/api/website-screenshot-api)
 
 ## __Description__
-Data on national, regional, and religious holidays via API
+Transform any URL into an image with Abstract's Website Screenshot API
 
 ## __Example Request__
 * Curl

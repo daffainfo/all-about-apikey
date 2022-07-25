@@ -6,42 +6,31 @@ Manage your images programmatically with this powerful API: compress, convert, c
 ## __Example Request__
 * Curl
 ```
-curl https://images.abstractapi.com/v1/upload/ -X POST --form data='{api_key": "{{token}}", "lossy": true}' --form image=@path/to/image/file.jpg
+curl https://images.abstractapi.com/v1/url/ -X POST -H "Content-Type: application/json" -H "Accept: application/json" -d '{"api_key": "{{token}}", "lossy": true, "url": "https://s3.amazonaws.com/static.abstractapi.com/test-images/dog.jpg"}
 ```
 
 * Raw
 ```
-POST /v1/upload/ HTTP/1.1
+POST https://images.abstractapi.com/v1/url/ HTTP/1.1
 Host: images.abstractapi.com
-Content-Type: multipart/form-data; boundary=---abcd1234abcd1234abcd
+Content-Type: application/json
+Accept: application/json
 
----abcd1234abcd1234abcd
-Content-Disposition: form-data; name="data"
-
-{api_key": "{{token}}", "lossy": true}
----abcd1234abcd1234abcd
-Content-Disposition: form-data; name="image"; filename="file.jpg"
-Content-Type: image/jpeg
-
-...................
-...................
-...................
-...................
----abcd1234abcd1234abcd--
+{"api_key": "{{token}}", "lossy": true, "url": "https://s3.amazonaws.com/static.abstractapi.com/test-images/dog.jpg"}
 ```
 
 ## __Response__
 * Success
 ```
 {
-   "original_size": "the size of the original input image, in bytes",
-   "original_height": "original height in pixels of the image",
-   "original_width": "original width in pixels of the image",
-   "final_size": "the size of the new image, in bytes",
-   "bytes_saved": "the number of bytes saved by compressing and resizing the image",
-   "final_height": "final height in pixels of the image",
-   "final_width": "final width in pixels of the image",
-   "url": "url of the image hosted by abstract for you to download. Images are available for 1 day.",
+    "original_size":205559,
+    "original_height":430,
+    "original_width":1142,
+    "final_size":75101,
+    "bytes_saved":130458,
+    "final_height":430,
+    "final_width":1142,
+    "url":"https://abstr..."
 }
 ```
 * Error

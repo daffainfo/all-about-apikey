@@ -1,4 +1,4 @@
-# [Abstract Public Holidays](https://www.abstractapi.com/holidays-api)
+# [Abstract Public Holidays](https://www.abstractapi.com/api/holidays-api)
 
 ## __Description__
 Data on national, regional, and religious holidays via API
