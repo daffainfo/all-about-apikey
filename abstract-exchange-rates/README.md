@@ -6,13 +6,13 @@ Get live and historical data from 60+ fiat and crypto currencies via a modern RE
 ## __Example Request__
 * Curl
 ```
-curl "https://currency.abstractapi.com/v1/?api_key={{token}}&base=USD"
+curl "https://exchange-rates.abstractapi.com/v1/live/?api_key={{token}}&base=USD"
 ```
 
 * Raw
 ```
-GET /v1/?api_key={{token}}&base=USD HTTP/1.1
-Host: currency.abstractapi.com
+GET /v1/live/?api_key={{token}}&base=USD HTTP/1.1
+Host: exchange-rates.abstractapi.com
 ```
 
 ## __Response__

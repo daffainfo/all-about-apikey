@@ -6,13 +6,13 @@ Quickly and easily get the time and date of a location or IP address, or convert
 ## __Example Request__
 * Curl
 ```
-curl "https://time.abstractapi.com/v1/?api_key={{token}}&location=Oxford, United Kingdom"
+curl "https://timezone.abstractapi.com/v1/current_time/?api_key={{token}}&location=Oxford, United Kingdom"
 ```
 
 * Raw
 ```
-GET /v1/?api_key={{token}}&location=Oxford,%20United%20Kingdom HTTP/1.1
-Host: time.abstractapi.com
+GET /v1/current_time/?api_key={{token}}&location=Oxford,%20United%20Kingdom HTTP/1.1
+Host: timezone.abstractapi.com
 ```
 
 ## __Response__

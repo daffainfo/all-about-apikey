@@ -1,7 +1,7 @@
 # [ClickUp](https://clickup.com/api)
 
 ## __Description__
-ClickUp is a robust, cloud-based project management tool for boosting productivity	
+ClickUp is a robust, cloud-based project management tool for boosting productivity
 
 ## __Example Request__
 * Curl

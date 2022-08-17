@@ -148,7 +148,6 @@ Detailed information about API
 ## To Dos
 - [x] Fixing structure of the repository
 - [ ] Add nuclei-template link to each information
-- [ ] Create a bash script to check the validity of API key / Oauth token
 - [ ] Get all of the information from github.com/public-apis/public-apis
 
 ## References

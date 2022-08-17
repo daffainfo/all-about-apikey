@@ -1,7 +1,7 @@
 # [Airtable](https://airtable.com/api)
 
 ## __Description__
-Integrate with Airtable	
+Integrate with Airtable
 
 ## __Example Request__
 * Curl

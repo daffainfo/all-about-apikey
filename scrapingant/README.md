@@ -1,7 +1,7 @@
 # [ScrapingAnt](https://docs.scrapingant.com/)
 
 ## __Description__
-Headless Chrome scraping with a simple API	
+Headless Chrome scraping with a simple API
 
 ## __Example Request__
 * Curl
