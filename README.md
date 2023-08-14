@@ -140,6 +140,7 @@ Detailed information about API
 * [ScrapingDog](/scrapingdog/)
 * [Screenshot API](/screenshot-api/)
 * [screenshotlayer](/screenshotlayer/)
+* [SearchApi](/searchapi/)
 * [SeatGeek](/seatgeek/)
 * [serpstack](/serpstack/)
 * [Smartsheet](/smartsheet/)
